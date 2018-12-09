@@ -1,0 +1,13 @@
+tensorflow
+numpy
+pandas
+SimpleITK
+opencv-python
+imageio
+seaborn
+keras
+livelossplot
+scikit-learn
+scikit-image
+pydicom
+tqdm
